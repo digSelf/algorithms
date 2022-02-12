@@ -1,3 +1,8 @@
+@名称:MathJax
+@触发文本:MathJax
+@代码片段:请在下一行开始输入内容!
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # 快速排序
 ## 题目
 给定你一个长度为 n 的整数数列。请你使用快速排序对这个数列按照从小到大进行排序，并将排好序的数列按顺序输出。
@@ -14,9 +19,7 @@
 
 ## 数据范围
 
-$$
-1\le n \le 100000
-$$
+$ 1\le n \le 100000 $
 
 ## 输入样例
 
