@@ -65,9 +65,3 @@
 ### 对应文件
 
 `binary_search_template.cpp`
-
-## [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
-
-## [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
-
-## [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
