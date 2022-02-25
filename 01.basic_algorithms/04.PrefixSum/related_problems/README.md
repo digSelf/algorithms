@@ -112,9 +112,9 @@
 
 **示例1**
 
-输入：root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
-输出：true
-解释：等于目标和的根节点到叶节点路径如上图所示。
+> 输入：root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
+> 输出：true
+> 解释：等于目标和的根节点到叶节点路径如上图所示。
 
 ![](https://assets.leetcode.com/uploads/2021/01/18/pathsum2.jpg)
 
