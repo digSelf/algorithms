@@ -27,6 +27,7 @@ int main() {
     int n, m;
     cin >> n >> m;
     
+    // 要保存所有可能出现的index，然后再去重做索引函数
     vector<int> all_index;
     vector<PII> operations;
     
