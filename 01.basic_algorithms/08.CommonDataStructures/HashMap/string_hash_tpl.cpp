@@ -20,7 +20,7 @@ int main() {
     cin.tie(NULL);
 
     int n, m; cin >> n >> m;
-    cin >> str + 1;
+    cin >> (str + 1);
 
     // 预处理
     p[0] = 1;
