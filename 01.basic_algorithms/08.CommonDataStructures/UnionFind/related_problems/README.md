@@ -7,3 +7,5 @@
 ## [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
 
 ## [1319. 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)
+
+## [POJ.1182 食物链](http://poj.org/problem?id=1182)
